@@ -1,1 +1,1 @@
-print("capek kali aku")
+print("besok aja di rubah")
